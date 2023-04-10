@@ -7,3 +7,4 @@ QuakeC user defined language .xml file for Notepad++. Light and Dark Theme based
 3. Restart notepad, reopen document or press Language > QuakeC.<br>
 
 
+![alt text](https://github.com/KleskBY/Notepad-QuakeC-Language-support/blob/main/img.png?raw=true)
